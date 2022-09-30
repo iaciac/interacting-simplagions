@@ -1,1 +1,1 @@
-# interacting-simplagions
+# Simplicially driven simple contagion
